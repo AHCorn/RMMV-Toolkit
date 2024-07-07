@@ -8,3 +8,4 @@
 <hr> 
 
 - character_name_modifier.py 一键修改角色名称
+- rmmv_event_extractor.py 提取游戏事件（对话、分支、变量）
