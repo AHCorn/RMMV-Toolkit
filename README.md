@@ -9,6 +9,8 @@
 
 character_name_modifier.py 一键修改角色名称
 
+mtool_translation_replacer.py 针对 Mtool 工具翻译文件的关键字修改
+
 rmmv_event_extractor.py 提取游戏事件（对话、分支、变量）
 
 
